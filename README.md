@@ -1,6 +1,6 @@
 # entities-multiplayer-fabric-rpg
 
-A superproject that pins the multiplayer fabric's role-playing game layer as git submodules: a planning player bot, its planner library and a local language-model runtime.
+Pins the multiplayer fabric's role-playing layer: a planning player bot, its planner library and a local language-model runtime.
 
 ## What it is for
 
