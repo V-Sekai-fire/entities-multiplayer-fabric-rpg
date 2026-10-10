@@ -14,4 +14,4 @@ git clone --recurse-submodules https://github.com/V-Sekai-fire/entities-multipla
 
 ## Licence
 
-The licence is not stated.
+MIT. See [LICENSE](LICENSE).
